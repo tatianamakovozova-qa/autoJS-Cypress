@@ -1,1 +1,1 @@
-# autoJS-Cypress
+# Автотесты на JavaScript + Cypress
